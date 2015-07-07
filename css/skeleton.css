@@ -469,6 +469,8 @@ header nav ul li a.btn:hover {
 
 header .headertext {
   margin-top: 10em;
+  animation-delay: 0.7s;
+  -webkit-animation-delay: 0.7x; /*Safari and Chrome*/
 }
 
 header h1 {
